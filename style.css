@@ -1,0 +1,114 @@
+.banner-container{
+    background-color: #CACACA;
+}
+.banner-coloum{
+    background-color: #8d8d8d;
+    margin: auto;
+    padding: 48px;
+    text-align: center;
+    color: white;
+
+}
+#p-tag{
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: monospace;
+}
+.navbar-container{
+    text-align: center;
+}
+.about-container{
+        background-color: #00BDBD;
+}
+.tags{
+    padding-top: 20px;
+    color: white;
+}
+#h-tag{
+    padding: 5px;
+}
+.yuy{
+    color: goldenrod;
+    text-align: center;
+    padding: 40px;
+}
+.edu-container{
+    background-color: #eee;
+}
+table, th, td, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+th{
+    background-color: antiquewhite;
+}
+th:hover{
+    background-color: red;
+    opacity: 60%;
+}
+#wow{
+    padding-top: 30px;
+    font-size: larger;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+.col{
+    margin: auto;
+}
+.table-tag{
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 12px;
+}
+.ass{
+    font-size: larger;
+    font-weight: bolder;
+}
+.cont-container{
+    background-color: #8d8d8d;
+}
+.hs{
+    color: white;
+    padding: 20px;
+}
+.cols{
+    color: white;
+}
+.ineer-form{
+    background-color: #585f73;
+
+}
+.cold{
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+
+}
+.colms{
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.circle{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: inline-block;
+    background: white;
+    align-items: center;
+    font-size: small;
+    text-align: center;
+    padding: 10px;
+    padding-top: 12px;
+   
+}
+.f-tag{
+    text-decoration: none;
+    color: black;
+}
